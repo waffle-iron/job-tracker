@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codyborders/job-tracker.png?label=ready&title=Ready)](https://waffle.io/codyborders/job-tracker)
 # Job Tracker
 
 ## Learning Goals
